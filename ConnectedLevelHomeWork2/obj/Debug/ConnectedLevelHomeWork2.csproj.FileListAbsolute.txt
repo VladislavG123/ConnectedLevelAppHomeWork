@@ -1,0 +1,13 @@
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\bin\Debug\ConnectedLevelHomeWork2.exe.config
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\bin\Debug\ConnectedLevelHomeWork2.exe
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\bin\Debug\ConnectedLevelHomeWork2.pdb
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\obj\Debug\ConnectedLevelHomeWork2.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\obj\Debug\ConnectedLevelHomeWork2.MainForm.resources
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\obj\Debug\ConnectedLevelHomeWork2.Properties.Resources.resources
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\obj\Debug\ConnectedLevelHomeWork2.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\obj\Debug\ConnectedLevelHomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\obj\Debug\ConnectedLevelHomeWork2.exe
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\obj\Debug\ConnectedLevelHomeWork2.pdb
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\bin\Debug\MetroFramework.dll
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\bin\Debug\Database.mdf
+C:\Users\Vlad\source\repos\ConnectedLevelHomeWork2\ConnectedLevelHomeWork2\bin\Debug\Database_log.ldf
